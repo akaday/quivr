@@ -1,5 +1,9 @@
 # Quivr - Your Second Brain, Empowered by Generative AI
+<a href="https://github.com/akaday/akaday/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akaday/akaday" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 <div align="center">
     <img src="./logo.png" alt="Quivr-logo" width="31%"  style="border-radius: 50%; padding-bottom: 20px"/>
 </div>
